@@ -24,8 +24,30 @@
                 recdict(i)
                 print('\n...................welcome back...................\n')
 
+### ...this is for Automating task !!!
+    def call():
+        file_name = input('Enter : ')
+
+        if 'http' == file_name[0:4]:
+            u = ur.urlopen(str(file_name)).read()
+            su = u.decode('ascii')
+
+        elif '{' == file_name[0]:
+            su = file_name
+
+        elif '\\' or '/' in file_name:
+            su = open(file_name).read()
+
+        try:
+            y = json.loads(str(su))
+        except:
+            y = su
+
+        data = ast.literal_eval(str(y))
+        return data
+
 ### function call :
-        recdict(data)
+        recdict(call())
         
 ### where, in recdict function parameter, data is any content of ipynb file... for example,
 

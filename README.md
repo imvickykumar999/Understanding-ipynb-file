@@ -1,5 +1,7 @@
 # [Understanding-ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb%20to%20dictionary.ipynb)
 
+[![python ipynb.py](https://raw.githubusercontent.com/imvickykumar999/Understanding-ipynb-file/main/exe_ss.png)](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb.py)
+
 ### Recursive dictionary function is used.
     def recdict(d):
         print('\n.................................................WELCOME......................................................\n')

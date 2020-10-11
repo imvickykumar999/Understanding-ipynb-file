@@ -27,8 +27,7 @@
 ### function call :
         recdict(data)
         
-### where,
-        recdict function parameter, data is any content of ipynb file... for example,
+### where, recdict function parameter, data is any content of ipynb file... for example,
 
 ## data = [Click below Screenshot](https://raw.githubusercontent.com/imvickykumar999/understanding-ipynb-file/main/Sample%20ipynb%20file.ipynb)
 

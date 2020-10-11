@@ -1,4 +1,5 @@
 # understanding-ipynb-file
+
 ### Recursive dictionary function is used.
     def recdict(d):
         print('\n.................................................WELCOME......................................................\n')
@@ -23,6 +24,12 @@
                 recdict(i)
                 print('\n...................welcome back...................\n')
 
-## input data = [Click below Screenshot](https://raw.githubusercontent.com/imvickykumar999/understanding-ipynb-file/main/Sample%20ipynb%20file.ipynb)
+### function call :
+        recdict(data)
+        
+### where,
+        recdict function parameter, data is any content of ipynb file... for example,
+
+## data = [Click below Screenshot](https://raw.githubusercontent.com/imvickykumar999/understanding-ipynb-file/main/Sample%20ipynb%20file.ipynb)
 
 [![Sample ipynb file](https://raw.githubusercontent.com/imvickykumar999/understanding-ipynb-file/main/screenshot.png)](https://raw.githubusercontent.com/imvickykumar999/understanding-ipynb-file/main/Sample%20ipynb%20file.ipynb)

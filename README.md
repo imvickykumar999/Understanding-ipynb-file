@@ -1,4 +1,4 @@
-# [Understanding-ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb%20to%20dictionary.ipynb)
+# Understanding [ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb%20to%20dictionary.ipynb) Format
 
 ## [Raw data of YOLO.ipynb](https://raw.githubusercontent.com/imvickykumar999/YOLO-Object-Detection/master/YOLO.ipynb) => [YOLO Repository](https://github.com/imvickykumar999/YOLO-Object-Detection/blob/master/YOLO.ipynb)
 

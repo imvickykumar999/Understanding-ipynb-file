@@ -1,8 +1,8 @@
 # [Understanding-ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb%20to%20dictionary.ipynb)
 
-## [YOLO.ipynb](https://raw.githubusercontent.com/imvickykumar999/YOLO-Object-Detection/master/YOLO.ipynb) = [YOLO Repository](https://github.com/imvickykumar999/YOLO-Object-Detection/blob/master/YOLO.ipynb)
+## [Raw data of YOLO.ipynb](https://raw.githubusercontent.com/imvickykumar999/YOLO-Object-Detection/master/YOLO.ipynb) => [YOLO Repository](https://github.com/imvickykumar999/YOLO-Object-Detection/blob/master/YOLO.ipynb)
 
-[![YOLO.ipynb](https://raw.githubusercontent.com/imvickykumar999/Understanding-ipynb-file/main/colab_git_yolo_ss.png)](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/YOLO_output.txt)
+[![YOLO output.ipynb](https://raw.githubusercontent.com/imvickykumar999/Understanding-ipynb-file/main/colab_git_yolo_ss.png)](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/YOLO_output.txt)
 
 ## Python Executable file in CMD
 [![python ipynb.py](https://raw.githubusercontent.com/imvickykumar999/Understanding-ipynb-file/main/exe_ss.png)](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb.py)

@@ -20,6 +20,8 @@ def ipynbinfo(info, file_name):
         return box
     return recdict(call(file_name))
 n, box, file_name = 130, [], input('Enter ipynb file Contents : ')
+extract = ['cell_type', 'execution_count', 'outputs', 'source']
+if file_name == '': file_name = 'https://raw.githubusercontent.com/imvickykumar999/vixtor/master/vixtor.ipynb'
 for i in ipynbinfo('source', file_name):
     for j in i: print(j)
     print('='*n, end='\n\n')

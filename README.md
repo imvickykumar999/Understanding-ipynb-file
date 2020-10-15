@@ -1,6 +1,6 @@
 # Understanding [ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb.py) Format
 
-[![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/linkipynbinput.png)](https://github.com/imvickykumar999/Internship-Study/raw/main/nltk%20and%20spacy%20real%20python.ipynb)
+[![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/linkipynbinput.png)](https://github.com/imvickykumar999/Internship-Study/raw/main/vocabulary_file.ipynb)
 
 ## Click => [Conclusion.ipynb](https://github.com/imvickykumar999/Internship-Study/blob/main/vocabulary_file.ipynb)
 

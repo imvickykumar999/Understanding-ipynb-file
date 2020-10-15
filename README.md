@@ -1,8 +1,10 @@
 # Understanding [ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb.py) Format
 
-![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/linkipynbinput.png)
+[![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/linkipynbinput.png)](https://github.com/imvickykumar999/Internship-Study/raw/main/nltk%20and%20spacy%20real%20python.ipynb)
+
 ## Click => [Conclusion.ipynb](https://github.com/imvickykumar999/Internship-Study/blob/main/vocabulary_file.ipynb)
-![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/conclusionipynb.png)
+
+[![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/conclusionipynb.png)](https://github.com/imvickykumar999/Internship-Study/blob/main/vocabulary_file.ipynb)
 
 ## [Raw data of YOLO.ipynb](https://raw.githubusercontent.com/imvickykumar999/YOLO-Object-Detection/master/YOLO.ipynb) => [YOLO Repository](https://github.com/imvickykumar999/YOLO-Object-Detection/blob/master/YOLO.ipynb)
 

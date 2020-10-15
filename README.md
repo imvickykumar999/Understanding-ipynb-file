@@ -1,4 +1,4 @@
-# Understanding [ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb%20to%20dictionary.ipynb) Format
+# Understanding [ipynb-file](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/ipynb.py) Format
 
 ![](https://github.com/imvickykumar999/Understanding-ipynb-file/blob/main/linkipynbinput.png)
 ## Click => [Conclusion.ipynb](https://github.com/imvickykumar999/Internship-Study/blob/main/vocabulary_file.ipynb)
